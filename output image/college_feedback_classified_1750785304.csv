@@ -1,0 +1,26 @@
+Feedback,Sentiment,Category,Predicted Category
+The professors explain concepts very clearly.,positive,Academics,Academics
+The course content is outdated and needs revision.,negative,Academics,Academics
+Class timings are well structured.,positive,Academics,Academics
+The syllabus is too vast to cover in one semester.,negative,Academics,Academics
+The teachers are approachable and supportive.,positive,Academics,Academics
+The classroom is always clean and well maintained.,positive,Facilities,Facilities
+The canteen food is not hygienic.,negative,Facilities,Facilities
+Hostel rooms are spacious and comfortable.,positive,Facilities,Facilities
+The library has an excellent selection of books.,positive,Facilities,Facilities
+The lab equipment is outdated and often malfunctions.,negative,Facilities,Facilities
+The administration staff is friendly and helpful.,positive,Administration,Administration
+There are frequent delays in issuing ID cards.,negative,Administration,Administration
+Fee payment process is smooth and efficient.,positive,Administration,Administration
+Getting approvals for events takes too long.,negative,Administration,Administration
+The examination process is fair and well-organized.,positive,Academics,Academics
+The college Wi-Fi is unreliable during peak hours.,negative,Facilities,Facilities
+The campus security is very reassuring.,positive,Facilities,Administration
+The college conducts useful workshops regularly.,positive,Academics,Academics
+The sports facilities are inadequate.,negative,Facilities,Facilities
+The college events are engaging and well managed.,positive,Administration,Administration
+The administration is slow in responding to emails.,negative,Administration,Administration
+The online learning platform is easy to use.,positive,Academics,Academics
+The parking facilities are insufficient.,negative,Facilities,Facilities
+There is good coordination between departments.,positive,Administration,Administration
+The grievance redressal system is inefficient.,negative,Administration,Administration
